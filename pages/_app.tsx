@@ -1,7 +1,7 @@
 import type { AppProps } from 'next/app'
 
 import { GlobalStyles } from '@/styles/globals'
-import { Layout } from '@/components'
+import { Layout } from '@/sections'
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
